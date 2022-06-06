@@ -12,5 +12,4 @@ const CONFIG = {
     reply: 'rep đi nè ,
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: http://m.me/doicobanlabuon1993
-}
+    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: http://m.me/doicobanlabuon199
